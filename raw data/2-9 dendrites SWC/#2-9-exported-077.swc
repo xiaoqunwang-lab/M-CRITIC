@@ -1,0 +1,9 @@
+# Exported from "Simple Neurite Tracer" version 3.1.6 on 2020-05-20T15:50:05.407
+# https://imagej.net/Simple_Neurite_Tracer
+#
+# All positions and radii in microns
+# Voxel separation (x,y,z): 0.994368911043582, 0.994368911043582, 2.0
+#
+1 0 558.8353278636932 1812.7345243692398 78.0 0.0 -1
+2 0 557.8409589529037 1811.7401554584503 76.0 0.0 1
+3 0 556.8465900421143 1810.7457865476608 76.0 0.0 2
